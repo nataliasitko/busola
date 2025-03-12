@@ -63,7 +63,7 @@ See the following example:
   ![Alt text](./assets/display-widgets/Badge.png)
 </div>
 <br/><br/>
-<kbd><img src="./assets/display-widgets/Bagde2.png" alt="Example of a badge widget with a tooltip" width="40%"></kbd>
+<kbd><img src="./assets/display-widgets/Bagde2.png" alt="Example of a badge widget with a tooltip"></kbd>
 
 ### `ControlledBy`
 
