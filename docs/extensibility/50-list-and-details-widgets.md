@@ -84,7 +84,7 @@ This is an example of kind and name link:
   placeholder: '-'
 ```
 
-<img src="./assets/display-widgets/ControlledBy.png" alt="Example of a ControlledBy widget"  style="border: 2px solid black;">
+<div style="border: 2px solid black;"><img src="./assets/display-widgets/ControlledBy.png" alt="Example of a ControlledBy widget"></div>
 
 This is an exaple of kind only:
 
