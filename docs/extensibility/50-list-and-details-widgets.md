@@ -82,7 +82,7 @@ This is an example of kind and name link:
   placeholder: '-'
 ```
 
-<img src="./assets/display-widgets/ControlledBy.png" alt="Example of a ControlledBy widget" width="40%" style="border: 1px solid #D2D5D9">
+<img src="./assets/display-widgets/ControlledBy.png" alt="Example of a ControlledBy widget"  style="border: 2px solid black;">
 
 This is an exaple of kind only:
 
