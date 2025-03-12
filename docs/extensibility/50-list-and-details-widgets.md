@@ -59,7 +59,7 @@ See the following example:
   description: status.message
 ```
 
-<img src="./assets/display-widgets/Badge.png" alt="Example of a badge widget" width="40%" style="border: 1px solid #D2D5D9">
+<div style="border: 2px solid black;">![Alt text](./assets/display-widgets/Badge.png)</div>
 <br/><br/>
 <img src="./assets/display-widgets/Bagde2.png" alt="Example of a badge widget with a tooltip" width="40%" style="border: 1px solid #D2D5D9">
 
