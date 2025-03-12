@@ -113,7 +113,7 @@ status:
       source: status.conditions
 ```
 
-<img src="./assets/display-widgets/ConditionList.png" alt="Example of a condition list widget" style="border: 1px solid #D2D5D9">
+<img src="./assets/display-widgets/ConditionList.png" alt="Example of a condition list widget" style="border: 10px solid #D2D5D9">
 
 This is an example of `ConditionList` with overriden statuses:
 
